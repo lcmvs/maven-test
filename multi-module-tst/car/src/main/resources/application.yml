@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: multi-module-tst
+
+server:
+  port: 12580
+  servlet:
+    context-path: /multi
+
